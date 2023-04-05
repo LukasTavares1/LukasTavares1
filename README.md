@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
- Me chamo Lukas, tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas e fascinado por programação.
+ Me chamo Lukas, tenho 21 anos, sou estudante de Análise e Desenvolvimento de Sistemas, Engenharia de Software e fascinado por programação.
 
 ### BIO
 
